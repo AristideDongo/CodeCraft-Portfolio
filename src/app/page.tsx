@@ -43,7 +43,7 @@ export default function Home() {
                       md:text-lg sm:text-base xs:text-sm">
           Passionné par le développement, je conçois des solutions web et mobiles innovantes en utilisant des technologies modernes telles que JavaScript, React et Next.js.
         </p>
-        <button className="px-7 py-5 text-[20px] font-bold bg-transparent border-2 border-[#9290C3] text-[#9290C3] rounded-md hover:bg-[#9290C3] hover:text-black transition duration-300 z-10
+        <button className="px-7 py-5 text-[20px] mb-10 font-bold bg-transparent border-2 border-[#9290C3] text-[#9290C3] rounded-md hover:bg-[#9290C3] hover:text-black transition duration-300 z-10
                           md:px-6 md:py-4 sm:px-5 sm:py-3 xs:px-4 xs:py-2">
           Télécharger Mon CV
         </button>
