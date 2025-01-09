@@ -18,7 +18,7 @@ export default function ProjectDetails({ params }: ProjectDetailsProps) {
     }
 
     const buttonBack = () => {
-        window.location.href = '/gallery';
+        window.location.href = '/';
     };
 
     return (

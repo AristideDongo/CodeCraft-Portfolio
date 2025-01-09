@@ -6,7 +6,7 @@ import Link from 'next/link';
 
 export default function Gallery() {
     return (
-        <div className="bg-[#070F2B] min-h-screen">
+        <div id='gallery' className="bg-[#070F2B] min-h-screen">
             <h1 className="text-center pt-28 text-[32px] md:text-[40px] font-bold text-[#9290C3] mb-8">
                 Galerie
             </h1>
